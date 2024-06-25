@@ -86,11 +86,11 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-<p>
+<br>
+<br>
+<p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panchammmm&show_icons=true&locale=en&layout=compact" alt="panchammmm" />
 </p>
-<br>
-<br>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=panchammmm&show_icons=true&locale=en" alt="panchammmm" />
 </p>
