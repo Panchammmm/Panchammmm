@@ -22,6 +22,7 @@
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true)](https://www.linkedin.com/in/pancham-sardar-6a466227b)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true)](https://www.instagram.com/pinaki_x_pancham/)
 [![linkedin](https://go-skill-icons.vercel.app/api/icons?i=github&titles=true)](https://github.com/Panchammmm)
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=netlify&titles=true)](https://app.netlify.com/teams/panchammmm/sites)
 
 
 <details>
