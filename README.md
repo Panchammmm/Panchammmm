@@ -30,7 +30,7 @@
     <h3>Github stats</h3>
   </summary>
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Panchammmm&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panchammmm&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Panchammmm&theme=dark&hide_langs_below=1&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api?username=Panchammmm&show_icons=true&theme=dark&line_height=40)
 
 </details>
