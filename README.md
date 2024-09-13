@@ -14,7 +14,7 @@
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,tailwind&titles=true)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,git,nodejs,mongo,netlify&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,git,nodejs,wordpress,netlify&titles=true)
 
 ### Other links
 
