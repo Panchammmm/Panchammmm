@@ -8,7 +8,8 @@
 - 📍  Based in India
 - 🌐  My Portfolio [here](https://pancham-portfolio.netlify.app/)
 - ✉️  You can reach me by [email](mailto:sardarpancham510510@gmail.com)
-- 🔍  Interested in Tailwind and React.js
+- 🔍  Interested in Frontend & WordPress
+- 👨‍💻  Currently working on [Sci-Tech Creation](https://scitechcreation.com/)
 
 ### Skills & tools
 
