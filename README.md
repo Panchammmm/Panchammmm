@@ -9,7 +9,7 @@
 - 🌐  My Portfolio [here](https://pancham-portfolio.netlify.app/)
 - ✉️  You can reach me by [email](mailto:sardarpancham510510@gmail.com)
 - 🔍  Interested in UI & WordPress
-- 👨‍💻  Currently working on [Sci-Tech Creation](https://scitechcreation.com/)
+- 👨‍💻  Currently working on [NeoSci-Tech](https://neoscitech.com/)
 
 ### Skills & tools
 
