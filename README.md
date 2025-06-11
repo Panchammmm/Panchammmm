@@ -8,14 +8,16 @@
 - 📍  Based in India
 - 🌐  My Portfolio [here](https://pancham-portfolio.netlify.app/)
 - ✉️  You can reach me by [email](mailto:sardarpancham510510@gmail.com)
-- 🔍  Interested in UI & WordPress
+- 🔍  Interested in UI & Backend
 - 👨‍💻  Currently working on [NeoSci-Tech](https://neoscitech.com/)
 
 ### Skills & tools
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,tailwind&titles=true)
 <br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,git,nodejs,wordpress,netlify&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,mongodb,nodejs&titles=true)
+<br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva,wordpress,netlify,vercel,lightroom&titles=true)
 
 ### Other links
 
